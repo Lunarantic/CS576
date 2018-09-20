@@ -6,4 +6,4 @@ This repository contains files used in Lab sessions of that course
 
 *All of the files have been borrowed from his previous course sessions*
 
-All credits to Dr. Georgios Portokalidis
+All credits to [Dr. Georgios Portokalidis](http://portokalidis.net/index.html)
