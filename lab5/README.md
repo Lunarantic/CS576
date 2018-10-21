@@ -51,4 +51,5 @@ all trailing specifier should have $ once used
 ```
 
 %p >>> print in pointer format equal to %#x
+
 %n >>> to write
