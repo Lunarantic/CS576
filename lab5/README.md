@@ -52,4 +52,4 @@ all trailing specifier should have $ once used
 
 %p >>> print in pointer format equal to %#x
 
-%n >>> to write
+%n >>> to write number of bytes written so far
