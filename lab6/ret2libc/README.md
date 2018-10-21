@@ -10,10 +10,9 @@ identify address by GDB
 $(gdb) print [function_name]
 ```
 
-Noteable functions:
-<system>
-<exit>
-<printf>
-
-<execl>
-<execvp>
+### Noteable functions:
+#### system
+#### exit
+#### printf
+#### execl
+#### execvp
